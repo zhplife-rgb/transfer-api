@@ -1,5 +1,5 @@
 const DEFAULT_UPSTREAM_BASE_URL = "https://unlimited.surf";
-const DEFAULT_OPENAI_MODEL = "gateway-gpt-5";
+const DEFAULT_OPENAI_MODEL = "gateway-gpt-5.5";
 const DEFAULT_CLAUDE_MODEL = "claude-opus-4-7-20260101";
 
 const CORS_HEADERS = {
